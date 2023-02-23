@@ -14,3 +14,7 @@ firm on the basis of certain parameters.
 | 3. | ${\color{lightgreen} Feature \space Extraction}$ | Since the values were all integers and one-hot encoded, the only thing left to be done was feature scaling. As, none of the values were negative and there were a few outliers, so I preferred to use Min-Max Scaler. | <b><i> Completed |
 | 4. | ${\color{lightgreen} Splitting \space The \space Dataset}$ | The Dataset is splitted into train size (75%) and test size(25%) by the help of scikit-learn python library. | <b><i> Completed |
 | 5. | ${\color{lightgreen} Deep \space Learning}$ | Deep Learning and Model Training using the Artificial Neural Networks (ANN). There were two hidden layers present in the Neural Network. Plotted the Confusion Matrix and the Classification Report with the help of Tensorflow and Keras as a Wrapper Library. | <b><i> Completed |
+  
+
+# ${\color{lightblue} Made \space By}$
+  ${\color{lightgreen} Vishu \space Kalier}$
